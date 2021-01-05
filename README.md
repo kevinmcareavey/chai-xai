@@ -38,7 +38,7 @@ A collection of material on explainable AI (XAI) relevant to the [Cyber Hygiene 
 - Filip Karlo Došilović, Mario Brčić, and Nikica Hlupić. [Explainable Artificial Intelligence: A Survey](https://ieeexplore.ieee.org/abstract/document/8400040). In *Proceedings of the 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO'18)*, pages 210-215, 2018.
 
 ## Venues
-- Explainable Agency in Artificial Intelligence Workshop (XAI) @ AAAI
+- Workshop on Explainable Agency in Artificial Intelligence @ AAAI
   - [1st, 2021](https://sites.google.com/view/xaiworkshop/topic)
 - Workshop on Explainable AI (XAI) @ IJCAI
   - [4th, 2020](https://sites.google.com/view/xai2020/home)
@@ -53,9 +53,9 @@ A collection of material on explainable AI (XAI) relevant to the [Cyber Hygiene 
   - [3rd, 2020](http://xaip.mybluemix.net/#/)
   - [2nd, 2019](https://kcl-planning.github.io/XAIP-Workshops/ICAPS_2019)
   - [1st, 2018](https://icaps18.icaps-conference.org/xaip/)
-- Extending Explainable AI Beyond Deep Models and Classifiers (XXAI) @ ICML
+- Workshop on Extending Explainable AI Beyond Deep Models and Classifiers (XXAI) @ ICML
   - [1st, 2020](http://interpretable-ml.org/icml2020workshop/)
-- Workshop on Explainable AI (XAI) @ CVPR
+- Workshop on Explainable AI @ CVPR
   - [1st, 2019](https://explainai.net/)
 - Workshop on Explanation-Aware Computing (ExaCt) @ AAAI
   - [7th, 2012](https://web.archive.org/web/20131005004402/http://exact2012.workshop.hm/)
