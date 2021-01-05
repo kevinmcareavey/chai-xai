@@ -1,8 +1,13 @@
 # CHAI-XAI
-This repository collects content relevant to explainable AI (XAI) for the [Cyber Hygiene in AI Enabled Domestic Life (CHAI)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1) project.
+A collection of material on explainable AI (XAI) relevant to the [Cyber Hygiene in AI Enabled Domestic Life (CHAI)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1) project.
 
-> We say that a [...] model is **interpretable** if you can inspect the actual model and understand why it got a particular answer for a given input, and how the answer would change when the input changes. [...] An **explainable** model is one that can help you understand “*why* was this output produced for this input?” In our terminology, interpretability derives from inspecting the actual model, whereas explainability can be provided by a separate process.
-That is, the model itself can be a hard-to-understand black box, but an explanation module can summarise what the model does. (Russell & Norvig, 2020, Chapter 19)
+> We say that a [...] model is **interpretable** if you can inspect the actual model and understand why it got a particular answer for a given input, and how the answer would change when the input changes.
+> [...]
+> An **explainable** model is one that can help you understand “*why* was this output produced for this input?”
+> In our terminology, interpretability derives from inspecting the actual model, whereas explainability can be provided by a separate process.
+> That is, the model itself can be a hard-to-understand black box, but an explanation module can summarise what the model does.
+>
+> *(Russell & Norvig, 2020, Chapter 19)*
 
 ## Courses
 - [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/) @ Harvard University
