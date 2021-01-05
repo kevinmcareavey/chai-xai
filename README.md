@@ -30,9 +30,6 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - [Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction](https://yochan-lab.github.io/tutorial/AAAI-2020/) @ AAAI'20
 - [On Explainable AI: From Theory to Motivation, Applications and Limitations](https://xaitutorial2019.github.io/) @ AAAI'19
 
-## Books
-- ...
-
 ## Survey Papers
 - Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, and Francisco Herrera. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges Toward Responsible AI](https://doi.org/10.1016/j.inffus.2019.12.012). *Information Fusion*, 58: 82-115, 2020.
 - E. Tjoa and C. Guan. [A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI](https://doi.org/10.1109/TNNLS.2020.3027314). *IEEE Transactions on Neural Networks and Learning Systems*: 1-21, 2020.
@@ -42,7 +39,11 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - Amina Adadi and Mohammed Berrada. [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://doi.org/10.1109/ACCESS.2018.2870052). *IEEE Access*, 6:52138-52160, 2018.
 - Filip Karlo Došilović, Mario Brčić, and Nikica Hlupić. [Explainable Artificial Intelligence: A Survey](https://doi.org/10.23919/MIPRO.2018.8400040). In *Proceedings of the 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO'18)*, pages 210-215, 2018.
 
-## Venues
+## Research Papers
+- Danding Wang, Qian Yang, Ashraf Abdul, and Brian Y. Lim. [Designing Theory-Driven User-Centric Explainable AI](https://doi.org/10.1145/3290605.3300831). In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI'19)*, pages 1–15, 2019.
+- Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
+
+## Workshops
 - Workshop on Explainable Agency in Artificial Intelligence @ AAAI
   - [1st, 2021](https://sites.google.com/view/xaiworkshop/topic)
 - Workshop on Explainable AI (XAI) @ IJCAI
@@ -64,15 +65,12 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
   - [1st, 2019](https://explainai.net/)
 - **Defunct:** Workshop on Explanation-Aware Computing (ExaCt) @ AAAI
   - [7th, 2012](https://web.archive.org/web/20131005004402/http://exact2012.workshop.hm/)
-  - 6th, 2011
-  - 5th, 2010
-  - 4th, 2009
-  - 3rd, 2008
-  - 2nd, 2007
-  - 1st, 2006
+  - [6th, 2011](https://web.archive.org/web/20131005004107/http://exact2011.workshop.hm/)
+  - [5th, 2010](https://web.archive.org/web/20130831134748/http://exact2010.workshop.hm/)
+  - [4th, 2009](https://web.archive.org/web/20130508145437/http://exact2009.workshop.hm/)
+  - [3rd, 2008](https://web.archive.org/web/20130903063429/http://exact2008.workshop.hm/)
+  - [2nd, 2007](https://web.archive.org/web/20130508125742/http://exact2007.workshop.hm/)
+  - [1st, 2005](https://web.archive.org/web/20130508140259/http://exact2005.workshop.hm/)
 
-## Research Papers
-- ...
-
-## Related Repositories
+## Related Collections
 - [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
