@@ -34,8 +34,13 @@ A collection of material on explainable AI (XAI) relevant to the [Cyber Hygiene 
 - ...
 
 ## Survey Papers
-- Amina Adadi and Mohammed Berrada. [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/abstract/document/8466590). *IEEE Access*, 6:52138-52160, 2018.
-- Filip Karlo Došilović, Mario Brčić, and Nikica Hlupić. [Explainable Artificial Intelligence: A Survey](https://ieeexplore.ieee.org/abstract/document/8400040). In *Proceedings of the 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO'18)*, pages 210-215, 2018.
+- Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, and Francisco Herrera. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges Toward Responsible AI](https://doi.org/10.1016/j.inffus.2019.12.012). *Information Fusion*, 58: 82-115, 2020.
+- E. Tjoa and C. Guan. [A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI](https://doi.org/10.1109/TNNLS.2020.3027314). *IEEE Transactions on Neural Networks and Learning Systems*: 1-21, 2020.
+- Tim Miller. [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://doi.org/10.1016/j.artint.2018.07.007). *Artificial Intelligence*, 267: 1-38, 2019.
+- David Gunning and David W. Aha. [DARPA’s Explainable Artificial Intelligence (XAI) Program](https://doi.org/10.1609/aimag.v40i2.2850). *AI Magazine*, 40(2): 44-58, 2019.
+- Wojciech Samek and Klaus-Robert Müller. [Towards Explainable Artificial Intelligence](https://doi.org/10.1007/978-3-030-28954-6_1). In Wojciech Samek, Grégoire Montavon, Andrea Vedaldi, Lars Kai Hansen, and Klaus-Robert Müller (editors), *Explainable AI: Interpreting, Explaining and Visualizing Deep Learning*, pages 5-22, 2019.
+- Amina Adadi and Mohammed Berrada. [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://doi.org/10.1109/ACCESS.2018.2870052). *IEEE Access*, 6:52138-52160, 2018.
+- Filip Karlo Došilović, Mario Brčić, and Nikica Hlupić. [Explainable Artificial Intelligence: A Survey](https://doi.org/10.23919/MIPRO.2018.8400040). In *Proceedings of the 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO'18)*, pages 210-215, 2018.
 
 ## Venues
 - Workshop on Explainable Agency in Artificial Intelligence @ AAAI
@@ -55,9 +60,9 @@ A collection of material on explainable AI (XAI) relevant to the [Cyber Hygiene 
   - [1st, 2018](https://icaps18.icaps-conference.org/xaip/)
 - Workshop on Extending Explainable AI Beyond Deep Models and Classifiers (XXAI) @ ICML
   - [1st, 2020](http://interpretable-ml.org/icml2020workshop/)
-- Workshop on Explainable AI @ CVPR
+- **Defunct:** Workshop on Explainable AI @ CVPR
   - [1st, 2019](https://explainai.net/)
-- Workshop on Explanation-Aware Computing (ExaCt) @ AAAI
+- **Defunct:** Workshop on Explanation-Aware Computing (ExaCt) @ AAAI
   - [7th, 2012](https://web.archive.org/web/20131005004402/http://exact2012.workshop.hm/)
   - 6th, 2011
   - 5th, 2010
