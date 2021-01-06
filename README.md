@@ -17,18 +17,25 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - [An Extensible Toolkit for Explainable Recommender Systems](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#mq2) @ AAAI'21
 - [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#aq1) @ AAAI'21
 - [From Explainability to Model Quality and Back Again](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#ah3) @ AAAI'21
-- [On Explainable AI: From Theory to Motivation, Industrial Applications and Coding Practices](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#ah7) @ AAAI'21
-- [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://nips.cc/virtual/2020/public/tutorial_59e711d152de7bec7304a8c2ecaf9f0f.html) @ NeurIPS
+- [On Explainable AI: From Theory to Motivation, Industrial Applications and Coding Practices](https://xaitutorial2021.github.io/) @ AAAI'21
+- [Logic-Enabled Verification and Explanation of ML Models](https://alexeyignatiev.github.io/ijcai20-tutorial/index.html) @ IJCAI'20
+- [Towards Deep Explanation in Machine Learning Supported by Visual Methods](http://www.cwu.edu/~borisk/IJCAI2020/) @ IJCAI'20
+- [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://nips.cc/virtual/2020/public/tutorial_59e711d152de7bec7304a8c2ecaf9f0f.html) @ NeurIPS'20
+- [Explainable AI for Deep Networks](http://www.interpretable-ml.org/ecml2020tutorial/) @ ECML-PKDD'20
+- [What and How of Machine Learning Transparency - Building Bespoke Explainability Tools with Interoperable Algorithmic Components](https://events.fat-forensics.org/2020_ecml-pkdd) @ ECML-PKDD'20
 - [Explanation and Fairness in Unsupervised Learning](https://www.cs.ucdavis.edu/~davidson/ECAI2020/overview.htm) @ ECAI'20
 - [Argumentative Explanations in AI](https://www.doc.ic.ac.uk/~afr114/ecaitutorial/) @ ECAI'20
 - [Cognitive Vision: On Deep Semantics for Explainable Visuospatial Computing](https://codesign-lab.org/cognitive-vision/) @ ECAI'20
-- [Logic-Enabled Verification and Explanation of ML Models](https://alexeyignatiev.github.io/ijcai20-tutorial/index.html) @ IJCAI'20
-- [Towards Deep Explanation in Machine Learning Supported by Visual Methods](http://www.cwu.edu/~borisk/IJCAI2020/) @ IJCAI'20
+- [Human-Centered Explainability for Healthcare](https://healthxaitutorial.github.io/kdd2020/) @ KDD'20
+- [Interpreting and Explaining Deep Neural Networks: A Perspective on Time Series Data](http://xai.kaist.ac.kr/Tutorial/2020/) @ KDD'20
 - [Explainability, Trust and Ethics for Robots and Autonomous Systems](https://aamas2020.conference.auckland.ac.nz/accepted-tutorials/) @ AAMAS'20
+- [Explainable AI in Industry: Practical Challenges and Lessons Learned](https://sites.google.com/view/www20-explainable-ai-tutorial) @ WWW'20
 - [Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned](https://xaitutorial2020.github.io/) @ AAAI'20
 - [Rigorous Verification and Explanation of ML Models](https://alexeyignatiev.github.io/aaai20-tutorial/) @ AAAI'20
 - [Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction](https://yochan-lab.github.io/tutorial/AAAI-2020/) @ AAAI'20
+- [Explainable AI in Industry](https://sites.google.com/view/kdd19-explainable-ai-tutorial) @ KDD'19
 - [On Explainable AI: From Theory to Motivation, Applications and Limitations](https://xaitutorial2019.github.io/) @ AAAI'19
+- [Explainable Models for Healthcare AI](https://mlhealthcare.github.io/) @ KDD'18
 
 ## Survey Papers
 - Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, and Francisco Herrera. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges Toward Responsible AI](https://doi.org/10.1016/j.inffus.2019.12.012). *Information Fusion*, 58: 82-115, 2020.
@@ -61,6 +68,8 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
   - [1st, 2018](https://icaps18.icaps-conference.org/xaip/)
 - Workshop on Extending Explainable AI Beyond Deep Models and Classifiers (XXAI) @ ICML
   - [1st, 2020](http://interpretable-ml.org/icml2020workshop/)
+- **Defunct:** Workshop on Explainable AI/ML for Accountability, Fairness, and Transparency @ KDD
+  - [1st, 2019](https://xai.kdd2019.a.intuit.com/)
 - **Defunct:** Workshop on Explainable AI @ CVPR
   - [1st, 2019](https://explainai.net/)
 - **Defunct:** Workshop on Explanation-Aware Computing (ExaCt) @ AAAI
@@ -71,6 +80,9 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
   - [3rd, 2008](https://web.archive.org/web/20130903063429/http://exact2008.workshop.hm/)
   - [2nd, 2007](https://web.archive.org/web/20130508125742/http://exact2007.workshop.hm/)
   - [1st, 2005](https://web.archive.org/web/20130508140259/http://exact2005.workshop.hm/)
+
+## Software
+- [FAT Forensics](https://fat-forensics.org/) @ University of Bristol
 
 ## Related Collections
 - [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
