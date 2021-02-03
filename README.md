@@ -45,11 +45,15 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - Wojciech Samek and Klaus-Robert Müller. [Towards Explainable Artificial Intelligence](https://doi.org/10.1007/978-3-030-28954-6_1). In Wojciech Samek, Grégoire Montavon, Andrea Vedaldi, Lars Kai Hansen, and Klaus-Robert Müller (editors), *Explainable AI: Interpreting, Explaining and Visualizing Deep Learning*, pages 5-22, 2019.
 - Amina Adadi and Mohammed Berrada. [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://doi.org/10.1109/ACCESS.2018.2870052). *IEEE Access*, 6:52138-52160, 2018.
 - Filip Karlo Došilović, Mario Brčić, and Nikica Hlupić. [Explainable Artificial Intelligence: A Survey](https://doi.org/10.23919/MIPRO.2018.8400040). In *Proceedings of the 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO'18)*, pages 210-215, 2018.
-- Or Biran and Courtenay Cotton. [Explanation and Justification in Machine Learning: A Survey](http://www.cs.columbia.edu/~orb/papers/xai_survey_paper_2017.pdf). In *Proceedings of the IJCAI 2017 Workshop on Explainable Artificial Intelligence (XAI)*, pages 8–13, 2017.
+- Or Biran and Courtenay Cotton. [Explanation and Justification in Machine Learning: A Survey](http://www.cs.columbia.edu/~orb/papers/xai_survey_paper_2017.pdf). In *Proceedings of the IJCAI'17 Workshop on Explainable Artificial Intelligence (XAI)*, pages 8–13, 2017.
 
 ## Research Papers
 - Danding Wang, Qian Yang, Ashraf Abdul, and Brian Y. Lim. [Designing Theory-Driven User-Centric Explainable AI](https://doi.org/10.1145/3290605.3300831). In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI'19)*, pages 1–15, 2019.
 - Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
+
+### Causality
+- Joseph Y. Halpern. [Actual causality](https://mitpress.mit.edu/books/actual-causality). MIT Press, 2016.
+- Hana Chockler and Joseph Y. Halpern. [Responsibility and blame: A structural-model approach](https://doi.org/10.1613/jair.1391). *Journal of Artificial Intelligence Research* 22: 93-115, 2004.
 
 ## Workshops
 - Workshop on Explainable Agency in Artificial Intelligence @ AAAI
