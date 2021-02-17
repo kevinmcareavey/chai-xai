@@ -53,6 +53,8 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 
 ### Causality
 - Joseph Y. Halpern. [Actual causality](https://mitpress.mit.edu/books/actual-causality). MIT Press, 2016.
+- Joseph Y. Halpern and Judea Pearl. [Causes and explanations: A structural-model approach. Part II: Explanations](https://academic.oup.com/bjps/article-abstract/56/4/889/1451724). *The British Journal for the Philosophy of Science*, 56 (4): 889-911, 2005.
+- Joseph Y. Halpern and Judea Pearl. [Causes and explanations: A structural-model approach. Part I: Causes](https://doi.org/10.1093/bjps/axi147). *The British Journal for the Philosophy of Science*, 56 (4): 843-887, 2005.
 - Hana Chockler and Joseph Y. Halpern. [Responsibility and blame: A structural-model approach](https://doi.org/10.1613/jair.1391). *Journal of Artificial Intelligence Research* 22: 93-115, 2004.
 
 ## Workshops
