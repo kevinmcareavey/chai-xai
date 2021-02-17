@@ -90,4 +90,5 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - [FAT Forensics](https://fat-forensics.org/) @ University of Bristol
 
 ## Related Collections
-- [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+- [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ![](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?style=social)
+- [Interesting resources related to XAI](https://github.com/pbiecek/xai_resources) ![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
