@@ -52,7 +52,7 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
 
 ## Theses
-- \'{E}tienne Houz\'{e}. [Explainable Artificial Intelligence for the Smart Home: Enabling Relevant Dialogue between Users and Autonomous Systems](https://www.diva-portal.org/smash/get/diva2:1320183/FULLTEXT01.pdf). Masters thesis, KTH Royal Institute of Technology, 2019.
+- Étienne Houzé. [Explainable Artificial Intelligence for the Smart Home: Enabling Relevant Dialogue between Users and Autonomous Systems](https://www.diva-portal.org/smash/get/diva2:1320183/FULLTEXT01.pdf). Masters thesis, KTH Royal Institute of Technology, 2019.
 
 ### Causality
 - Joseph Y. Halpern. [Actual causality](https://mitpress.mit.edu/books/actual-causality). MIT Press, 2016.
