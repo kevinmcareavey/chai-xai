@@ -51,6 +51,9 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - Danding Wang, Qian Yang, Ashraf Abdul, and Brian Y. Lim. [Designing Theory-Driven User-Centric Explainable AI](https://doi.org/10.1145/3290605.3300831). In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI'19)*, pages 1–15, 2019.
 - Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
 
+## Theses
+- \'{E}tienne Houz\'{e}. [Explainable Artificial Intelligence for the Smart Home: Enabling Relevant Dialogue between Users and Autonomous Systems](https://www.diva-portal.org/smash/get/diva2:1320183/FULLTEXT01.pdf). Masters thesis, KTH Royal Institute of Technology, 2019.
+
 ### Causality
 - Joseph Y. Halpern. [Actual causality](https://mitpress.mit.edu/books/actual-causality). MIT Press, 2016.
 - Joseph Y. Halpern and Judea Pearl. [Causes and explanations: A structural-model approach. Part II: Explanations](https://academic.oup.com/bjps/article-abstract/56/4/889/1451724). *The British Journal for the Philosophy of Science*, 56 (4): 889-911, 2005.
