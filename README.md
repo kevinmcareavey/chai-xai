@@ -13,6 +13,9 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/) @ Harvard University
 
 ## Tutorials
+- [Theoretically Unifying Conceptual Explanation and Generalization of DNNs](https://ijcai21xai.github.io/) @ IJCAI'21
+- [Machine Reasoning Explainability](https://jimtoer.no/tutorials-workshops/AAMAS-2021-Tutorial-JimTorresen-web.html) @ AAMAS'21
+- [Explainability, Trust and Ethics for Robots and Autonomous Systems](https://jimtoer.no/tutorials-workshops/AAMAS-2021-Tutorial-JimTorresen-web.html) @ AAMAS'21
 - [Explainable AI for Societal Event Predictions: Foundations, Methods, and Applications](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#mq1) @ AAAI'21
 - [An Extensible Toolkit for Explainable Recommender Systems](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#mq2) @ AAAI'21
 - [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#aq1) @ AAAI'21
@@ -74,7 +77,8 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
   - [2nd, 2020](https://extraamas.ehealth.hevs.ch/archive.html)
   - [1st, 2019](https://extraamas.ehealth.hevs.ch/archive.html)
 - Workshop on Explainable Planning (XAIP) @ ICAPS
-  - [3rd, 2020](http://xaip.mybluemix.net/#/)
+  - [4th, 2021](http://xaip.mybluemix.net/#/2021)
+  - [3rd, 2020](http://xaip.mybluemix.net/#/2020)
   - [2nd, 2019](https://kcl-planning.github.io/XAIP-Workshops/ICAPS_2019)
   - [1st, 2018](https://icaps18.icaps-conference.org/xaip/)
 - Workshop on Extending Explainable AI Beyond Deep Models and Classifiers (XXAI) @ ICML
