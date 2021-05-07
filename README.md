@@ -62,7 +62,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 
 ### 2017
 - Maria Fox, Derek Long, and Daniele Magazzeni. [Explainable Planning](https://arxiv.org/abs/1709.10256). *arXiv:1709.10256*, 2017.
-- Pat Langley, Ben Meadows, Mohan Sridharan, and Dongkyu Choi. [Explainable Agency for Intelligent Autonomous Systems](http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/15046). In *Proceedings of the 29th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI'17)*, pages 4762-4763. 2017.
+- Pat Langley, Ben Meadows, Mohan Sridharan, and Dongkyu Choi. [Explainable Agency for Intelligent Autonomous Systems](http://www.isle.org/~langley/papers/agency.iaai17.pdf). In *Proceedings of the 29th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI'17)*, pages 4762-4763. 2017.
 - Finale Doshi-Velez and Been Kim. [A roadmap for a rigorous science of interpretability](https://arxiv.org/abs/1702.08608). *arXiv:1702.08608*, 2017.
 - Eugene Freuder. [Explaining ourselves: human-aware constraint reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/11147). In *Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI'17)*, pages 4858-4862, 2017.
 - Bryce Goodman and Seth Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://doi.org/10.1609/aimag.v38i3.2741)." *AI magazine*, 38(3): 50-57, 2017.
