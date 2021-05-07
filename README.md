@@ -40,25 +40,35 @@ A collection of material on explainable AI (XAI) relevant to [Cyber Hygiene in A
 - [On Explainable AI: From Theory to Motivation, Applications and Limitations](https://xaitutorial2019.github.io/) @ AAAI'19
 - [Explainable Models for Healthcare AI](https://mlhealthcare.github.io/) @ KDD'18
 
-## Survey Papers
-- Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, and Francisco Herrera. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges Toward Responsible AI](https://doi.org/10.1016/j.inffus.2019.12.012). *Information Fusion*, 58: 82-115, 2020.
+## Surveys & Position Papers
+- Tathagata Chakraborti, Sarath Sreedharan, and Subbarao Kambhampati. [The emerging landscape of explainable automated planning & decision making](https://www.ijcai.org/Proceedings/2020/0669.pdf). In *Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI'20)*, pages 4803-4811, 2020.
+- Sarit Kraus at al. [AI for explaining decisions in multi-agent environments](https://doi.org/10.1609/aaai.v34i09.7077). In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI'20)*, pages 13534-13538, 2020.
+- Alejandro Barredo Arrieta et al. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges Toward Responsible AI](https://doi.org/10.1016/j.inffus.2019.12.012). *Information Fusion*, 58: 82-115, 2020.
 - E. Tjoa and C. Guan. [A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI](https://doi.org/10.1109/TNNLS.2020.3027314). *IEEE Transactions on Neural Networks and Learning Systems*: 1-21, 2020.
+- Sule Anjomshoae, Amro Najjar, Davide Calvaresi, and Kary Främling. [Explainable agents and robots: Results from a systematic literature review](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1078.pdf). In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS'19)*, pages 1078-1088, 2019.
 - Tim Miller. [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://doi.org/10.1016/j.artint.2018.07.007). *Artificial Intelligence*, 267: 1-38, 2019.
 - David Gunning and David W. Aha. [DARPA’s Explainable Artificial Intelligence (XAI) Program](https://doi.org/10.1609/aimag.v40i2.2850). *AI Magazine*, 40(2): 44-58, 2019.
 - Wojciech Samek and Klaus-Robert Müller. [Towards Explainable Artificial Intelligence](https://doi.org/10.1007/978-3-030-28954-6_1). In Wojciech Samek, Grégoire Montavon, Andrea Vedaldi, Lars Kai Hansen, and Klaus-Robert Müller (editors), *Explainable AI: Interpreting, Explaining and Visualizing Deep Learning*, pages 5-22, 2019.
+- Zachary C. Lipton. [The Mythos of Model Interpretability](https://queue.acm.org/detail.cfm?id=3241340). *ACM Queue*, 16(3), 2018.
 - Amina Adadi and Mohammed Berrada. [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://doi.org/10.1109/ACCESS.2018.2870052). *IEEE Access*, 6:52138-52160, 2018.
 - Filip Karlo Došilović, Mario Brčić, and Nikica Hlupić. [Explainable Artificial Intelligence: A Survey](https://doi.org/10.23919/MIPRO.2018.8400040). In *Proceedings of the 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO'18)*, pages 210-215, 2018.
 - Ashraf Abdul, Jo Vermeulen, Danding Wang, Brian Y. Lim, and Mohan Kankanhalli. [Trends and trajectories for explainable, accountable and intelligible systems: An HCI research agenda](https://dl.acm.org/doi/10.1145/3173574.3174156). In *Proceedings of the 2018 Conference on Human Factors in Computing Systems (CHI'18)*, pages 1-18, 2018.
+- Maria Fox, Derek Long, and Daniele Magazzeni. [Explainable Planning](https://arxiv.org/abs/1709.10256). *arXiv:1709.10256*, 2017.
+- Langley, Pat, Ben Meadows, Mohan Sridharan, and Dongkyu Choi. [Explainable Agency for Intelligent Autonomous Systems](http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/15046). In *Proceedings of the 29th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI'17)*, pages 4762-4763. 2017.
+- Finale Doshi-Velez and Been Kim. [A roadmap for a rigorous science of interpretability](https://arxiv.org/abs/1702.08608). *arXiv:1702.08608*, 2017.
+- Eugene Freuder. [Explaining ourselves: human-aware constraint reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/11147). In *Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI'17)*, pages 4858-4862, 2017.
+- Bryce Goodman and Seth Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://doi.org/10.1609/aimag.v38i3.2741)." *AI magazine*, 38(3): 50-57, 2017.
 - Or Biran and Courtenay Cotton. [Explanation and Justification in Machine Learning: A Survey](http://www.cs.columbia.edu/~orb/papers/xai_survey_paper_2017.pdf). In *Proceedings of the IJCAI'17 Workshop on Explainable Artificial Intelligence (XAI)*, pages 8–13, 2017.
-
-## Research Papers
-- Danding Wang, Qian Yang, Ashraf Abdul, and Brian Y. Lim. [Designing Theory-Driven User-Centric Explainable AI](https://doi.org/10.1145/3290605.3300831). In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI'19)*, pages 1–15, 2019.
-- Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
 
 ## Theses
 - Étienne Houzé. [Explainable Artificial Intelligence for the Smart Home: Enabling Relevant Dialogue between Users and Autonomous Systems](https://www.diva-portal.org/smash/get/diva2:1320183/FULLTEXT01.pdf). Masters thesis, KTH Royal Institute of Technology, 2019.
 
-### Causality
+## Research Papers
+- Danding Wang, Qian Yang, Ashraf Abdul, and Brian Y. Lim. [Designing Theory-Driven User-Centric Explainable AI](https://doi.org/10.1145/3290605.3300831). In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI'19)*, pages 1–15, 2019.
+- Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
+- Todd Kulesza, Margaret Burnett, Weng-Keen Wong, and Simone Stumpf. [Principles of explanatory debugging to personalize interactive machine learning](https://doi.org/10.1145/2678025.2701399). In *Proceedings of the 20th International Conference on Intelligent User Interfaces (IUI'15)*, pages 126-137. 2015.
+
+## Causality
 - Joseph Y. Halpern. [Actual causality](https://mitpress.mit.edu/books/actual-causality). MIT Press, 2016.
 - Joseph Y. Halpern and Judea Pearl. [Causes and explanations: A structural-model approach. Part II: Explanations](https://academic.oup.com/bjps/article-abstract/56/4/889/1451724). *The British Journal for the Philosophy of Science*, 56 (4): 889-911, 2005.
 - Joseph Y. Halpern and Judea Pearl. [Causes and explanations: A structural-model approach. Part I: Causes](https://doi.org/10.1093/bjps/axi147). *The British Journal for the Philosophy of Science*, 56 (4): 843-887, 2005.
