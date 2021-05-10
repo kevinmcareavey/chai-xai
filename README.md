@@ -51,12 +51,15 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 ## Surveys & Position Papers
 
 ### 2020
+- Sahil Verma, John Dickerson, and Keegan Hines. [Counterfactual Explanations for Machine Learning: A Review](https://ml-retrospectives.github.io/neurips2020/camera_ready/5.pdf). In *Proceedings of the NeurIPS'20 Workshop: ML Retrospectives, Surveys & Meta-Analyses (ML-RSA)*, 2020.
+- Ramya Srinivasanand Ajay Chander. [Explanation Perspectives from the Cognitive Sciences - A Survey](https://www.ijcai.org/proceedings/2020/0670.pdf). In *Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI'20)*, pages 4812-4818, 2020.
 - Tathagata Chakraborti, Sarath Sreedharan, and Subbarao Kambhampati. [The emerging landscape of explainable automated planning & decision making](https://www.ijcai.org/Proceedings/2020/0669.pdf). In *Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI'20)*, pages 4803-4811, 2020.
 - Sarit Kraus at al. [AI for explaining decisions in multi-agent environments](https://doi.org/10.1609/aaai.v34i09.7077). In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI'20)*, pages 13534-13538, 2020.
 - Alejandro Barredo Arrieta et al. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges Toward Responsible AI](https://doi.org/10.1016/j.inffus.2019.12.012). *Information Fusion*, 58: 82-115, 2020.
 - E. Tjoa and C. Guan. [A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI](https://doi.org/10.1109/TNNLS.2020.3027314). *IEEE Transactions on Neural Networks and Learning Systems*: 1-21, 2020.
 
 ### 2019
+- Ruth M.J. Byrne. [Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/proceedings/2019/0876.pdf) In *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI'19)*, pages 6276-6282, 2019.
 - Sule Anjomshoae, Amro Najjar, Davide Calvaresi, and Kary Främling. [Explainable agents and robots: Results from a systematic literature review](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1078.pdf). In *Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS'19)*, pages 1078-1088, 2019.
 - Tim Miller. [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://doi.org/10.1016/j.artint.2018.07.007). *Artificial Intelligence*, 267: 1-38, 2019.
 - David Gunning and David W. Aha. [DARPA’s Explainable Artificial Intelligence (XAI) Program](https://doi.org/10.1609/aimag.v40i2.2850). *AI Magazine*, 40(2): 44-58, 2019.
