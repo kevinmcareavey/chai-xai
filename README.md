@@ -13,6 +13,8 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/) @ Harvard University
 
 ## Tutorials
+
+### 2021
 - [Theoretically Unifying Conceptual Explanation and Generalization of DNNs](https://ijcai21xai.github.io/) @ IJCAI'21
 - [Machine Reasoning Explainability](https://jimtoer.no/tutorials-workshops/AAMAS-2021-Tutorial-JimTorresen-web.html) @ AAMAS'21
 - [Explainability, Trust and Ethics for Robots and Autonomous Systems](https://jimtoer.no/tutorials-workshops/AAMAS-2021-Tutorial-JimTorresen-web.html) @ AAMAS'21
@@ -21,6 +23,8 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#aq1) @ AAAI'21
 - [From Explainability to Model Quality and Back Again](https://aaai.org/Conferences/AAAI-21/aaai21tutorials/#ah3) @ AAAI'21
 - [On Explainable AI: From Theory to Motivation, Industrial Applications and Coding Practices](https://xaitutorial2021.github.io/) @ AAAI'21
+
+### 2020
 - [Logic-Enabled Verification and Explanation of ML Models](https://alexeyignatiev.github.io/ijcai20-tutorial/index.html) @ IJCAI'20
 - [Towards Deep Explanation in Machine Learning Supported by Visual Methods](http://www.cwu.edu/~borisk/IJCAI2020/) @ IJCAI'20
 - [Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities](https://nips.cc/virtual/2020/public/tutorial_59e711d152de7bec7304a8c2ecaf9f0f.html) @ NeurIPS'20
@@ -36,8 +40,12 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - [Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned](https://xaitutorial2020.github.io/) @ AAAI'20
 - [Rigorous Verification and Explanation of ML Models](https://alexeyignatiev.github.io/aaai20-tutorial/) @ AAAI'20
 - [Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction](https://yochan-lab.github.io/tutorial/AAAI-2020/) @ AAAI'20
+
+### 2019
 - [Explainable AI in Industry](https://sites.google.com/view/kdd19-explainable-ai-tutorial) @ KDD'19
 - [On Explainable AI: From Theory to Motivation, Applications and Limitations](https://xaitutorial2019.github.io/) @ AAAI'19
+
+### 2018
 - [Explainable Models for Healthcare AI](https://mlhealthcare.github.io/) @ KDD'18
 
 ## Surveys & Position Papers
@@ -68,19 +76,19 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Bryce Goodman and Seth Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://doi.org/10.1609/aimag.v38i3.2741)." *AI magazine*, 38(3): 50-57, 2017.
 - Or Biran and Courtenay Cotton. [Explanation and Justification in Machine Learning: A Survey](http://www.cs.columbia.edu/~orb/papers/xai_survey_paper_2017.pdf). In *Proceedings of the IJCAI'17 Workshop on Explainable Artificial Intelligence (XAI)*, pages 8–13, 2017.
 
-## Theses
-- Étienne Houzé. [Explainable Artificial Intelligence for the Smart Home: Enabling Relevant Dialogue between Users and Autonomous Systems](https://www.diva-portal.org/smash/get/diva2:1320183/FULLTEXT01.pdf). Masters thesis, KTH Royal Institute of Technology, 2019.
-
-## Research Papers
+## Research
 - Danding Wang, Qian Yang, Ashraf Abdul, and Brian Y. Lim. [Designing Theory-Driven User-Centric Explainable AI](https://doi.org/10.1145/3290605.3300831). In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI'19)*, pages 1–15, 2019.
 - Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
 - Todd Kulesza, Margaret Burnett, Weng-Keen Wong, and Simone Stumpf. [Principles of explanatory debugging to personalize interactive machine learning](https://doi.org/10.1145/2678025.2701399). In *Proceedings of the 20th International Conference on Intelligent User Interfaces (IUI'15)*, pages 126-137. 2015.
 
-## Causality
+### Causality
 - Joseph Y. Halpern. [Actual causality](https://mitpress.mit.edu/books/actual-causality). MIT Press, 2016.
 - Joseph Y. Halpern and Judea Pearl. [Causes and explanations: A structural-model approach. Part II: Explanations](https://academic.oup.com/bjps/article-abstract/56/4/889/1451724). *The British Journal for the Philosophy of Science*, 56 (4): 889-911, 2005.
 - Joseph Y. Halpern and Judea Pearl. [Causes and explanations: A structural-model approach. Part I: Causes](https://doi.org/10.1093/bjps/axi147). *The British Journal for the Philosophy of Science*, 56 (4): 843-887, 2005.
 - Hana Chockler and Joseph Y. Halpern. [Responsibility and blame: A structural-model approach](https://doi.org/10.1613/jair.1391). *Journal of Artificial Intelligence Research* 22: 93-115, 2004.
+
+### Theses
+- Étienne Houzé. [Explainable Artificial Intelligence for the Smart Home: Enabling Relevant Dialogue between Users and Autonomous Systems](https://www.diva-portal.org/smash/get/diva2:1320183/FULLTEXT01.pdf). Masters thesis, KTH Royal Institute of Technology, 2019.
 
 ## Workshops
 - Workshop on Explainable Agency in Artificial Intelligence @ AAAI
