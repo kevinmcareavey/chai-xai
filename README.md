@@ -51,6 +51,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 ## Surveys & Position Papers
 
 ### 2020
+- Arun Das and Paul Rad. [Opportunities and challenges in explainable artificial intelligence (XAI): A survey](https://arxiv.org/abs/2006.11371). *arXiv:2006.11371*, 2020.
 - Sahil Verma, John Dickerson, and Keegan Hines. [Counterfactual Explanations for Machine Learning: A Review](https://ml-retrospectives.github.io/neurips2020/camera_ready/5.pdf). In *Proceedings of the NeurIPS'20 Workshop: ML Retrospectives, Surveys & Meta-Analyses (ML-RSA)*, 2020.
 - Ramya Srinivasan and Ajay Chander. [Explanation Perspectives from the Cognitive Sciences - A Survey](https://www.ijcai.org/proceedings/2020/0670.pdf). In *Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI'20)*, pages 4812-4818, 2020.
 - Tathagata Chakraborti, Sarath Sreedharan, and Subbarao Kambhampati. [The emerging landscape of explainable automated planning & decision making](https://www.ijcai.org/Proceedings/2020/0669.pdf). In *Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI'20)*, pages 4803-4811, 2020.
@@ -126,7 +127,11 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
   - [1st, 2005](https://web.archive.org/web/20130508140259/http://exact2005.workshop.hm/)
 
 ## Software
-- [FAT Forensics](https://fat-forensics.org/) @ University of Bristol
+- [InterpretML](https://github.com/interpretml/interpret) ![](https://img.shields.io/github/stars/interpretml/interpret?style=social)
+- [DeepExplain](https://github.com/marcoancona/DeepExplain) ![](https://img.shields.io/github/stars/marcoancona/DeepExplain?style=social)
+- [DrWhy](https://github.com/ModelOriented/DrWhy) ![](https://img.shields.io/github/stars/ModelOriented/DrWhy?style=social)
+- [iml](https://github.com/christophM/iml) ![](https://img.shields.io/github/stars/christophM/iml?style=social)
+- [FAT Forensics](https://github.com/fat-forensics/fat-forensics) ![](https://img.shields.io/github/stars/fat-forensics/fat-forensics?style=social)
 
 ## Related Collections
 - [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ![](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI?style=social)
