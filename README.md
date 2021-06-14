@@ -1,5 +1,5 @@
 # CHAI-XAI
-A collection of material on explainable AI (XAI) for the [CHAI project](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026812/1).
+A collection of material on explainable AI (XAI) for the [CHAI project](https://project-chai.org).
 
 > We say that a [...] model is **interpretable** if you can inspect the actual model and understand why it got a particular answer for a given input, and how the answer would change when the input changes.
 > [...]
