@@ -129,6 +129,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
   - [1st, 2005](https://web.archive.org/web/20130508140259/http://exact2005.workshop.hm/)
 
 ## Software
+- [PyActualCausality](https://github.com/kevinmcareavey/pyactualcausality) ![](https://img.shields.io/github/stars/kevinmcareavey/pyactualcausality?style=social)
 - [InterpretML](https://github.com/interpretml/interpret) ![](https://img.shields.io/github/stars/interpretml/interpret?style=social)
 - [DeepExplain](https://github.com/marcoancona/DeepExplain) ![](https://img.shields.io/github/stars/marcoancona/DeepExplain?style=social)
 - [DrWhy](https://github.com/ModelOriented/DrWhy) ![](https://img.shields.io/github/stars/ModelOriented/DrWhy?style=social)
