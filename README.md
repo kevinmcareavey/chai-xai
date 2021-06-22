@@ -86,6 +86,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Todd Kulesza, Margaret Burnett, Weng-Keen Wong, and Simone Stumpf. [Principles of explanatory debugging to personalize interactive machine learning](https://doi.org/10.1145/2678025.2701399). In *Proceedings of the 20th International Conference on Intelligent User Interfaces (IUI'15)*, pages 126-137. 2015.
 
 ### Halpern-Pearl Definition of Actual Causality
+- Tim Miller. [Contrastive explanation: A structural-model approach](https://arxiv.org/abs/1811.03163). *arXiv:1811.03163*, 2018.
 - Joseph Y. Halpern. [Actual causality](https://mitpress.mit.edu/books/actual-causality). MIT Press, 2016.
 - Joseph Y. Halpern. [A Modification of the Halpern-Pearl Definition of Causality](https://www.ijcai.org/Proceedings/15/Papers/427.pdf). In *Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI'15)*, pages 3022-3033, 2015. <details>Halpern-Pearl modified definiton AC2(a<sup>m</sup>)</details>
 - Joseph Y. Halpern and Judea Pearl. [Causes and explanations: A structural-model approach. Part II: Explanations](https://academic.oup.com/bjps/article-abstract/56/4/889/1451724). *The British Journal for the Philosophy of Science*, 56 (4): 889-911, 2005.
