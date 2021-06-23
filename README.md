@@ -83,9 +83,11 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 ## Research
 - Danding Wang, Qian Yang, Ashraf Abdul, and Brian Y. Lim. [Designing Theory-Driven User-Centric Explainable AI](https://doi.org/10.1145/3290605.3300831). In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI'19)*, pages 1–15, 2019.
 - Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
+- Robert R. Hoffman, Shane T. Mueller, Gary Klein, and Jordan Litman. [Metrics for Explainable AI: Challenges and Prospects](https://arxiv.org/abs/1812.04608). *arXiv:1812.04608*, 2018.
 - Todd Kulesza, Margaret Burnett, Weng-Keen Wong, and Simone Stumpf. [Principles of explanatory debugging to personalize interactive machine learning](https://doi.org/10.1145/2678025.2701399). In *Proceedings of the 20th International Conference on Intelligent User Interfaces (IUI'15)*, pages 126-137. 2015.
 
 ### Halpern-Pearl Definition of Actual Causality
+- Prashan Madumal, Tim Miller, Liz Sonenberg, and Frank Vetere. [Explainable Reinforcement Learning through a Causal Lens](https://ojs.aaai.org/index.php/AAAI/article/view/5631/5487). In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI'20)*, pages 2493-2500, 2020.
 - Tim Miller. [Contrastive explanation: A structural-model approach](https://arxiv.org/abs/1811.03163). *arXiv:1811.03163*, 2018.
 - Joseph Y. Halpern. [Actual causality](https://mitpress.mit.edu/books/actual-causality). MIT Press, 2016.
 - Joseph Y. Halpern. [A Modification of the Halpern-Pearl Definition of Causality](https://www.ijcai.org/Proceedings/15/Papers/427.pdf). In *Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI'15)*, pages 3022-3033, 2015. <details>Halpern-Pearl modified definiton AC2(a<sup>m</sup>)</details>
