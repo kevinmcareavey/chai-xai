@@ -50,6 +50,9 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 
 ## Surveys & Position Papers
 
+### 2021
+- Ilia Stepin, Jose M. Alonso, Alejandro Catala, and Martín Pereira-Fariña. [A Survey of Contrastive and Counterfactual Explanation Generation Methods for Explainable Artificial Intelligence](https://doi.org/10.1109/ACCESS.2021.3051315). *IEEE Access*, 9:11974-12001, 2021.
+
 ### 2020
 - Arun Das and Paul Rad. [Opportunities and challenges in explainable artificial intelligence (XAI): A survey](https://arxiv.org/abs/2006.11371). *arXiv:2006.11371*, 2020.
 - Sahil Verma, John Dickerson, and Keegan Hines. [Counterfactual Explanations for Machine Learning: A Review](https://ml-retrospectives.github.io/neurips2020/camera_ready/5.pdf). In *Proceedings of the NeurIPS'20 Workshop: ML Retrospectives, Surveys & Meta-Analyses (ML-RSA)*, 2020.
