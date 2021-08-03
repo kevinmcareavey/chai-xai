@@ -84,6 +84,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Or Biran and Courtenay Cotton. [Explanation and Justification in Machine Learning: A Survey](http://www.cs.columbia.edu/~orb/papers/xai_survey_paper_2017.pdf). In *Proceedings of the IJCAI'17 Workshop on Explainable Artificial Intelligence (XAI)*, pages 8–13, 2017.
 
 ## Research
+- Sarath Sreedharan, Siddharth Srivastava, and Subbarao Kambhampati. [Using State Abstractions to Compute Personalized Contrastive Explanations for AI Agent Behavior](https://doi.org/10.1016/j.artint.2021.103570). *Artificial Intelligence*: 103570, 2021.
 - Danding Wang, Qian Yang, Ashraf Abdul, and Brian Y. Lim. [Designing Theory-Driven User-Centric Explainable AI](https://doi.org/10.1145/3290605.3300831). In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI'19)*, pages 1–15, 2019.
 - Kristijonas Čyras, Dimitrios Letsios, Ruth Misener, and Francesca Toni. [Argumentation for Explainable Scheduling](https://doi.org/10.1609/aaai.v33i01.33012752). In *Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI'19)*, pages 2752-2759, 2019.
 - Robert R. Hoffman, Shane T. Mueller, Gary Klein, and Jordan Litman. [Metrics for Explainable AI: Challenges and Prospects](https://arxiv.org/abs/1812.04608). *arXiv:1812.04608*, 2018.
