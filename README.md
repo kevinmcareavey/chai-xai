@@ -84,7 +84,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Tim Miller, Piers Howe, and Liz Sonenberg. [Explainable AI: Beware of inmates running the asylum](https://arxiv.org/abs/1712.00547). In *Proceedings of the 1st IJCAI Workshop on Explainable AI (XAI'17)*, 2017.
 - Bryce Goodman and Seth Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://doi.org/10.1609/aimag.v38i3.2741)." *AI magazine*, 38(3): 50-57, 2017.
 
-### Applications
+### Application domains
 - E. Tjoa and C. Guan. [A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI](https://doi.org/10.1109/TNNLS.2020.3027314). *IEEE Transactions on Neural Networks and Learning Systems*: 1-21, 2020.
 
 ## Special Issues
