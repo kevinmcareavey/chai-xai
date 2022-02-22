@@ -48,15 +48,19 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Arun Das and Paul Rad. [Opportunities and challenges in explainable artificial intelligence (XAI): A survey](https://arxiv.org/abs/2006.11371). *arXiv:2006.11371*, 2020.
 - Sahil Verma, John Dickerson, and Keegan Hines. [Counterfactual Explanations for Machine Learning: A Review](https://ml-retrospectives.github.io/neurips2020/camera_ready/5.pdf). In *Proceedings of the NeurIPS'20 Workshop: ML Retrospectives, Surveys & Meta-Analyses (ML-RSA)*, 2020.
 - Alejandro Barredo Arrieta et al. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges Toward Responsible AI](https://doi.org/10.1016/j.inffus.2019.12.012). *Information Fusion*, 58: 82-115, 2020.
+- Diogo V. Carvalho, Eduardo M. Pereira, and Jaime S. Cardoso. [Machine learning interpretability: A survey on methods and metrics](https://doi.org/10.3390/electronics8080832). *Electronics* 8(8): 832, 2019.
 - David Gunning and David W. Aha. [DARPA’s Explainable Artificial Intelligence (XAI) Program](https://doi.org/10.1609/aimag.v40i2.2850). *AI Magazine*, 40(2): 44-58, 2019.
 - Wojciech Samek and Klaus-Robert Müller. [Towards Explainable Artificial Intelligence](https://doi.org/10.1007/978-3-030-28954-6_1). In Wojciech Samek, Grégoire Montavon, Andrea Vedaldi, Lars Kai Hansen, and Klaus-Robert Müller (editors), *Explainable AI: Interpreting, Explaining and Visualizing Deep Learning*, pages 5-22, 2019.
+- Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, and Dino Pedreschi. [A survey of methods for explaining black box models](https://doi.org/10.1145/3236009). *ACM computing surveys* 51(5): 1-42, 2018.
+- Wojciech Samek, Thomas Wiegand, and Klaus-Robert Müller. [Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models](https://www.itu.int/dms_pub/itu-s/opb/journal/S-JOURNAL-ICTF.VOL1-2018-1-P05-PDF-E.pdf). *ITU Journal: ICT Discoveries* 1(1): 39-48, 2018.
 - Zachary C. Lipton. [The Mythos of Model Interpretability](https://queue.acm.org/detail.cfm?id=3241340). *ACM Queue*, 16(3), 2018.
 - Amina Adadi and Mohammed Berrada. [Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)](https://doi.org/10.1109/ACCESS.2018.2870052). *IEEE Access*, 6:52138-52160, 2018.
 - Filip Karlo Došilović, Mario Brčić, and Nikica Hlupić. [Explainable Artificial Intelligence: A Survey](https://doi.org/10.23919/MIPRO.2018.8400040). In *Proceedings of the 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO'18)*, pages 210-215, 2018.
+- Derek Doran, Sarah Schulz, and Tarek R. Besold. [What does explainable AI really mean? A new conceptualization of perspectives](https://arxiv.org/abs/1710.00794). *arXiv:1710.00794*, 2017.
 - Finale Doshi-Velez and Been Kim. [A roadmap for a rigorous science of interpretability](https://arxiv.org/abs/1702.08608). *arXiv:1702.08608*, 2017.
 - Or Biran and Courtenay Cotton. [Explanation and Justification in Machine Learning: A Survey](http://www.cs.columbia.edu/~orb/papers/xai_survey_paper_2017.pdf). In *Proceedings of the IJCAI'17 Workshop on Explainable Artificial Intelligence (XAI)*, pages 8–13, 2017.
 
-### AI planning, multi-agent systems, and robotics
+### Decision-making
 - Tathagata Chakraborti, Sarath Sreedharan, and Subbarao Kambhampati. [The emerging landscape of explainable automated planning & decision making](https://www.ijcai.org/Proceedings/2020/0669.pdf). In *Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI'20)*, pages 4803-4811, 2020.
 - Sarit Kraus at al. [AI for explaining decisions in multi-agent environments](https://doi.org/10.1609/aaai.v34i09.7077). In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI'20)*, pages 13534-13538, 2020.
 - Tathagata Chakraborti, Anagha Kulkarni, Sarath Sreedharan, David E. Smith, and Subbarao Kambhampati. [Explicability? Legibility? Predictability? Transparency? Privacy? Security? The emerging landscape of interpretable agent behavior.](https://ojs.aaai.org/index.php/ICAPS/article/download/3463/3331/) In *Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS'19)*, pages 86-96, 2019.
@@ -73,6 +77,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Ruth M.J. Byrne. [Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning](https://www.ijcai.org/proceedings/2019/0876.pdf) In *Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI'19)*, pages 6276-6282, 2019.
 - Tim Miller. [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://doi.org/10.1016/j.artint.2018.07.007). *Artificial Intelligence*, 267: 1-38, 2019.
 - Ashraf Abdul, Jo Vermeulen, Danding Wang, Brian Y. Lim, and Mohan Kankanhalli. [Trends and trajectories for explainable, accountable and intelligible systems: An HCI research agenda](https://dl.acm.org/doi/10.1145/3173574.3174156). In *Proceedings of the 2018 Conference on Human Factors in Computing Systems (CHI'18)*, pages 1-18, 2018.
+- Tim Miller, Piers Howe, and Liz Sonenberg. [Explainable AI: Beware of inmates running the asylum](https://arxiv.org/abs/1712.00547). In *Proceedings of the 1st IJCAI Workshop on Explainable AI (XAI'17)*, 2017.
 - Bryce Goodman and Seth Flaxman. [European Union regulations on algorithmic decision-making and a "right to explanation"](https://doi.org/10.1609/aimag.v38i3.2741)." *AI magazine*, 38(3): 50-57, 2017.
 
 ### Applications
