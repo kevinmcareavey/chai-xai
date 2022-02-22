@@ -6,6 +6,10 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 
 ## Tutorials
 
+### 2022
+- [On Explainable AI: From Theory to Motivation, Industrial Applications, XAI Coding & Engineering Practices](https://xaitutorial2022.github.io/) @ AAAI'22
+- [Explanations in Interactive Machine Learning](https://sites.google.com/view/aaai22-ximl-tutorial/home) @ AAAI'22
+
 ### 2021
 - [Theoretically Unifying Conceptual Explanation and Generalization of DNNs](https://ijcai21xai.github.io/) @ IJCAI'21
 - [Machine Reasoning Explainability](https://jimtoer.no/tutorials-workshops/AAMAS-2021-Tutorial-JimTorresen-web.html) @ AAMAS'21
