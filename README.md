@@ -49,6 +49,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Robert R. Hoffman, Shane T. Mueller, Gary Klein, and Jordan Litman. [Metrics for Explainable AI: Challenges and Prospects](https://arxiv.org/abs/1812.04608). *arXiv:1812.04608*, 2018.
 
 ### Machine learning
+- Gabrielle Ras, Ning Xie, Marcel van Gerven, and Derek Doran. [Explainable Deep Learning: A Field Guide for the Uninitiated](https://doi.org/10.1613/jair.1.13200). *Journal of Artificial Intelligence Research* 73: 329-397, 2022.
 - Arun Das and Paul Rad. [Opportunities and challenges in explainable artificial intelligence (XAI): A survey](https://arxiv.org/abs/2006.11371). *arXiv:2006.11371*, 2020.
 - Sahil Verma, John Dickerson, and Keegan Hines. [Counterfactual Explanations for Machine Learning: A Review](https://ml-retrospectives.github.io/neurips2020/camera_ready/5.pdf). In *Proceedings of the NeurIPS'20 Workshop: ML Retrospectives, Surveys & Meta-Analyses (ML-RSA)*, 2020.
 - Alejandro Barredo Arrieta et al. [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges Toward Responsible AI](https://doi.org/10.1016/j.inffus.2019.12.012). *Information Fusion*, 58: 82-115, 2020.
@@ -111,27 +112,28 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Étienne Houzé. [Explainable Artificial Intelligence for the Smart Home: Enabling Relevant Dialogue between Users and Autonomous Systems](https://www.diva-portal.org/smash/get/diva2:1320183/FULLTEXT01.pdf). Masters thesis, KTH Royal Institute of Technology, 2019. -->
 
 ## Workshops
-- Workshop on Explainable Agency in Artificial Intelligence (EAAI) @ AAAI
-  - [2nd, 2022](https://sites.google.com/view/eaai-ws-2022/)
-  - [1st, 2021](https://sites.google.com/view/xaiworkshop/topic)
-- Workshop on Explainable Transparent Autonomous Agents and Multi-Agent Systems (EXTRAAMAS) @ AAMAS
-  - [4th, 2022](https://extraamas.ehealth.hevs.ch/)
-  - [3rd, 2021](https://extraamas.ehealth.hevs.ch/archive.html)
-  - [2nd, 2020](https://extraamas.ehealth.hevs.ch/archive.html)
-  - [1st, 2019](https://extraamas.ehealth.hevs.ch/archive.html)
+- Workshop on Explainable AI (XAI) @ IJCAI
+  - [5th, 2022](https://sites.google.com/view/xai2022)
+  - [4th, 2020](https://sites.google.com/view/xai2020/home)
+  - [3rd, 2019](https://sites.google.com/view/xai2019/home)
+  - [2nd, 2018](https://web.archive.org/web/20200222003107/http://home.earthlink.net/~dwaha/research/meetings/faim18-xai/)
+  - [1st, 2017](https://web.archive.org/web/20200222002751/http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/)
 - Workshop on Explainable Planning (XAIP) @ ICAPS
   - [5th, 2022](http://xaip.mybluemix.net/#/2022)
   - [4th, 2021](http://xaip.mybluemix.net/#/2021)
   - [3rd, 2020](http://xaip.mybluemix.net/#/2020)
   - [2nd, 2019](https://kcl-planning.github.io/XAIP-Workshops/ICAPS_2019)
   - [1st, 2018](https://icaps18.icaps-conference.org/xaip/)
+- Workshop on Explainable Transparent Autonomous Agents and Multi-Agent Systems (EXTRAAMAS) @ AAMAS
+  - [4th, 2022](https://extraamas.ehealth.hevs.ch/)
+  - [3rd, 2021](https://extraamas.ehealth.hevs.ch/archive.html)
+  - [2nd, 2020](https://extraamas.ehealth.hevs.ch/archive.html)
+  - [1st, 2019](https://extraamas.ehealth.hevs.ch/archive.html)
+- Workshop on Explainable Agency in Artificial Intelligence (EAAI) @ AAAI
+  - [2nd, 2022](https://sites.google.com/view/eaai-ws-2022/)
+  - [1st, 2021](https://sites.google.com/view/xaiworkshop/topic)
 - Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI @ ICML
   - [1st, 2021](https://icml2021-xai.github.io/)
-- **Defunct:** Workshop on Explainable AI (XAI) @ IJCAI
-  - [4th, 2020](https://sites.google.com/view/xai2020/home)
-  - [3rd, 2019](https://sites.google.com/view/xai2019/home)
-  - [2nd, 2018](https://web.archive.org/web/20200222003107/http://home.earthlink.net/~dwaha/research/meetings/faim18-xai/)
-  - [1st, 2017](https://web.archive.org/web/20200222002751/http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/)
 - **Defunct:** Workshop on Extending Explainable AI Beyond Deep Models and Classifiers (XXAI) @ ICML
   - [1st, 2020](http://interpretable-ml.org/icml2020workshop/)
 - **Defunct:** Workshop on Explainable AI/ML for Accountability, Fairness, and Transparency @ KDD
