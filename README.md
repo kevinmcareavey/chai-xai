@@ -65,6 +65,7 @@ A collection of material on explainable AI (XAI) for the [CHAI project](https://
 - Or Biran and Courtenay Cotton. [Explanation and Justification in Machine Learning: A Survey](http://www.cs.columbia.edu/~orb/papers/xai_survey_paper_2017.pdf). In *Proceedings of the IJCAI'17 Workshop on Explainable Artificial Intelligence (XAI)*, pages 8–13, 2017.
 
 ### Decision-making
+- Fatai Sado, Chu Kiong Loo, Wei Shiung Liew, Matthias Kerzel, and Stefan Wermter. [Explainable Goal-Driven Agents and Robots -- A Comprehensive Review](https://arxiv.org/abs/2004.09705). *arXiv.2004.09705*, 2021.
 - Tathagata Chakraborti, Sarath Sreedharan, and Subbarao Kambhampati. [The emerging landscape of explainable automated planning & decision making](https://www.ijcai.org/Proceedings/2020/0669.pdf). In *Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI'20)*, pages 4803-4811, 2020.
 - Sarit Kraus at al. [AI for explaining decisions in multi-agent environments](https://doi.org/10.1609/aaai.v34i09.7077). In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI'20)*, pages 13534-13538, 2020.
 - Tathagata Chakraborti, Anagha Kulkarni, Sarath Sreedharan, David E. Smith, and Subbarao Kambhampati. [Explicability? Legibility? Predictability? Transparency? Privacy? Security? The emerging landscape of interpretable agent behavior.](https://ojs.aaai.org/index.php/ICAPS/article/download/3463/3331/) In *Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS'19)*, pages 86-96, 2019.
